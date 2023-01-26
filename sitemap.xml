@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://allinthink.github.io/%E8%AF%89%E6%B1%82%E5%88%97%E8%A1%A8/</loc>
+    
+    <lastmod>2023-01-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://allinthink.github.io/Luner%20New%20Year%20or%20Chinese%20New%20Year/</loc>
+    
+    <lastmod>2023-01-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://allinthink.github.io/%E5%AF%B9%E4%BA%8E%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E7%9A%84%E6%B7%B1%E6%80%9D/</loc>
     
     <lastmod>2023-01-25</lastmod>
@@ -26,10 +44,38 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://allinthink.github.io/tags/%E6%97%B6%E8%AF%84/</loc>
+    <lastmod>2023-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://allinthink.github.io/tags/%E8%AF%89%E6%B1%82/</loc>
+    <lastmod>2023-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
     <loc>https://allinthink.github.io/categories/%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2023-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://allinthink.github.io/categories/%E6%97%B6%E8%AF%84/</loc>
+    <lastmod>2023-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://allinthink.github.io/categories/%E8%AF%89%E6%B1%82/</loc>
     <lastmod>2023-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
